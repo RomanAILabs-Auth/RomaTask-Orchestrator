@@ -23,7 +23,7 @@ Code is delivered via a specialized XML engine (`<file path="...">`). This "boxe
 ## 🏁 Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/RomanAILabs-Auth/RomaTask.git](https://github.com/RomanAILabs-Auth/RomaTask.git)
+git clone [https://github.com/RomanAILabs/RomaTask.git](https://github.com/RomanAILabs/RomaTask.git)
 cd RomaTask
 
 # Install in editable mode
