@@ -1,0 +1,12 @@
+setup.py
+romatask/__init__.py
+romatask/cli.py
+romatask/utils.py
+romatask.egg-info/PKG-INFO
+romatask.egg-info/SOURCES.txt
+romatask.egg-info/dependency_links.txt
+romatask.egg-info/entry_points.txt
+romatask.egg-info/requires.txt
+romatask.egg-info/top_level.txt
+tests/__init__.py
+tests/test_cli.py
